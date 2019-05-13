@@ -14,5 +14,5 @@
   2. Go to XFWM4 settings
   3. In title_font set the font-size to either '1' or '0' 
 
-### If interest is shown, I can recreate these in different colors, or add tweaks. Feel free to clone themes, and make them your own!
+
 
